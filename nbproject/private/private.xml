@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/models/Note.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/models/Matiere.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/dao/EleveDAO.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/dao/NoteDAO.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/gestionecole/GestionEcole.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/dao/SemestreDAO.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/models/Eleve.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/models/Semestre.java</file>
+            <file>file:/E:/Lito/S6/Naina/GestionEcole/src/dao/MatiereDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
